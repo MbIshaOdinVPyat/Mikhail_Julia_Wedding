@@ -1,2 +1,2 @@
-# wedding-invitation
+# MikhailJuliaWedding
 Приглашение на свадьбу
